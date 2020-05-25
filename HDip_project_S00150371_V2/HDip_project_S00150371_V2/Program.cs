@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace Further_Study
+namespace HDip_project_S00150371_V2
 {
     public class Program
     {
