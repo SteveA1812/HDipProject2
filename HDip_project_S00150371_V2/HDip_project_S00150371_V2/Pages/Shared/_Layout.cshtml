@@ -45,17 +45,6 @@
         </div>
     </nav>
 
-   
-    <div class="container body-content">
-        @RenderBody()
-        <hr />
-        <footer id="sticky-footer" class="py-4 bg-dark text-white-50">
-            <div class="container text-center">
-                <small>Copyright &copy; <a href="mailto:S00150371@mail.itsligo.ie">Stephen Aitken</a></small>
-            </div>
-        </footer>
-    </div>
-
     <environment include="Development">
         <script src="~/lib/jquery/dist/jquery.js"></script>
         <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
@@ -78,5 +67,16 @@
     </environment>
 
     @RenderSection("Scripts", required: false)
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+
+    </div>
+    <footer id="sticky-footer" class="py-4 bg-dark text-white-50">
+        <div class="container text-center">
+            <small>Copyright &copy; <a href="mailto:S00150371@mail.itsligo.ie">Stephen Aitken</a></small>
+        </div>
+    </footer>
+
 </body>
 </html>
