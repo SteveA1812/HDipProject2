@@ -35,3 +35,8 @@ body {
         display: none;
     }
 }
+#sticky-footer {
+    flex-shrink: none;
+}
+
+

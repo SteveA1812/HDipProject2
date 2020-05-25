@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1022
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDip_project_S00150371_V2", "HDip_project_S00150371_V2\HDip_project_S00150371_V2.csproj", "{3BB5FAEF-9B11-4C43-BF0E-153FA31D0186}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDip_project_S00150371_V2", "HDip_project_S00150371_V2\HDip_project_S00150371_V2.csproj", "{6F441FA5-7A45-412C-A3CC-2743A728C1F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3BB5FAEF-9B11-4C43-BF0E-153FA31D0186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3BB5FAEF-9B11-4C43-BF0E-153FA31D0186}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3BB5FAEF-9B11-4C43-BF0E-153FA31D0186}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3BB5FAEF-9B11-4C43-BF0E-153FA31D0186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F441FA5-7A45-412C-A3CC-2743A728C1F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F441FA5-7A45-412C-A3CC-2743A728C1F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F441FA5-7A45-412C-A3CC-2743A728C1F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F441FA5-7A45-412C-A3CC-2743A728C1F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C95BB922-A3B3-404D-AB78-F6DC7977A45B}
+		SolutionGuid = {14EC4939-A95F-4806-86EC-AED8FDD19821}
 	EndGlobalSection
 EndGlobal
